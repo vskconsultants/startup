@@ -1,2 +1,2 @@
 # startup
-just very first startup repo
+just very first startup repo!
